@@ -1,0 +1,25 @@
+{
+  "name": "xenonutils",
+  "version": "1.0.0",
+  "description": "xenon utils is developed, used, and maintained by Xenon Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortylll/Xenon-Utils.git"
+  },
+  "keywords": [
+    "XenonUtils"
+  ],
+  "author": "Fortyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortylll/Xenon-Utils/issues"
+  },
+  "homepage": "https://github.com/fortylll/Xenon-Utils#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
