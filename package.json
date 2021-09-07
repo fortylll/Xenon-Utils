@@ -1,6 +1,6 @@
 {
   "name": "xenonutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xenon utils is developed, used, and maintained by Xenon Development",
   "main": "index.js",
   "scripts": {
